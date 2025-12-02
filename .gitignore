@@ -1,0 +1,31 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+.ipynb_checkpoints/
+.env
+.venv
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.DS_Store
+*.log
+*.pth
+*.so
+
+# VS Code
+.vscode/
+
+# PyTorch caches
+*.pt
+*.pth
+*.ckpt
+
+# Notebook outputs
+*.nbconvert.ipynb
+

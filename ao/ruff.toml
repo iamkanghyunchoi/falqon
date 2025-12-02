@@ -1,0 +1,4 @@
+# NOTE: The AO repo is completely linted.
+# Add linting rules here
+lint.select = ["F", "I"]
+lint.ignore = ["E731"]
